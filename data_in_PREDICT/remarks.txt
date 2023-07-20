@@ -1,0 +1,4 @@
+dr.csv is the preliminary prediction result of drug-disease associaton matrix after the first iteration.
+dr_predict_orgin.csv and dr_predict.csv is original relational data of drug-disease associaton matrix.
+wdd.csv is the disease-disease similarity matrix after random swimming and GKF.
+wrr.csv is the drug-drug similarity matrix after random swimming and GKF.

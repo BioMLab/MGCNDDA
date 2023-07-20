@@ -1,0 +1,4 @@
+dr_LAGCN.csv is the preliminary prediction result of drug-disease associaton matrix after the first iteration.
+dr_orgin.csv is original relational data of drug-disease associaton matrix.
+LAGCN_wdd_GS.csv is the disease-disease similarity matrix after random swimming and GKF.
+LAGCN_wrr_GS.csv is the drug-drug similarity matrix after random swimming and GKF.

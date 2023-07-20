@@ -1,0 +1,4 @@
+lrssl_dr.csv is the preliminary prediction result of drug-disease associaton matrix after the first iteration.
+lrssl_dr_originData.csv is original relational data of drug-disease associaton matrix.
+lrssl_wdd_GS.csv is the disease-disease similarity matrix after random swimming and GKF.
+lrssl_wrr_GS.csv is the drug-drug similarity matrix after random swimming and GKF.
